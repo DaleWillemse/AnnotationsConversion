@@ -1,29 +1,16 @@
 import json
 from decimal import Decimal
 
-# def Annotation_Conversion(region, size):
-#         x = region['shape_attributes']['x']
-#         y = region['shape_attributes']['y']
-#         width = region['shape_attributes']['width']
-#         height = region['shape_attributes']['height']
-
-#         _x      = Decimal(x + width) / Decimal(2 * size[0]) 
-#         _y      = Decimal(y + height) / Decimal(2 * size[1])
-#         _width  = Decimal(width / size[0])
-#         _height = Decimal(height / size[1])  # Image size
-
-#         return "{0:.10f} {0:.10f} {0:.10f} {0:.10f}".format(_x, _y, _width, _height)
-
 
 #  Image size is 640 x 480 
 
 def Calculate_Yolo(x, y, width, height):
-    _x      = Decimal(x + width) / Decimal(2 * 640) 
-    _y      = Decimal(y + height) / Decimal(2 * 480)
-    _width  = Decimal(width / 640)
-    _height = Decimal(height / 480)  # Image size
+    center_x = x / 640
+    center_y = y / 480
+    normalized_width = width / 640
+    normalized_height = height / 480
 
-    return "{0:.5f} {0:.5f} {0:.5f} {0:.5f}".format(_x, _y, _width, _height)
+    return f"{center_x:.5f} {center_y:.5f} {normalized_width:.5f} {normalized_height:.5f}"
 
 with open('Via_Annotations.json', 'r') as file:
     data = json.load(file)
