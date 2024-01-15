@@ -1,0 +1,4072 @@
+{
+  "scen2e00141.jpg120518": {
+    "filename": "scen2e00141.jpg",
+    "size": 120518,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 251,
+          "y": 149,
+          "width": 111,
+          "height": 183
+        },
+        "region_attributes": {
+          "name": "Car Keys",
+          "type": {
+            "unknown": false,
+            "keys": true
+          },
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Car Keys": "Car Keys",
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00001 (2).jpg122877": {
+    "filename": "scene00001 (2).jpg",
+    "size": 122877,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 229,
+          "y": 166,
+          "width": 114,
+          "height": 161
+        },
+        "region_attributes": {
+          "name": "Car Keys",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Car Keys": "Car Keys",
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00001 (3).jpg120959": {
+    "filename": "scene00001 (3).jpg",
+    "size": 120959,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 269,
+          "y": 232,
+          "width": 84,
+          "height": 186
+        },
+        "region_attributes": {
+          "name": "not_defined",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Car Keys": "Car Keys",
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00001.jpg164908": {
+    "filename": "scene00001.jpg",
+    "size": 164908,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 255,
+          "y": 110,
+          "width": 109,
+          "height": 205
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00011 (2).jpg125498": {
+    "filename": "scene00011 (2).jpg",
+    "size": 125498,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 232,
+          "y": 171,
+          "width": 116,
+          "height": 163
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00011 (3).jpg108519": {
+    "filename": "scene00011 (3).jpg",
+    "size": 108519,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 260,
+          "y": 218,
+          "width": 88,
+          "height": 184
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00011.jpg163003": {
+    "filename": "scene00011.jpg",
+    "size": 163003,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 258,
+          "y": 94,
+          "width": 108,
+          "height": 204
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00021 (2).jpg111977": {
+    "filename": "scene00021 (2).jpg",
+    "size": 111977,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 268,
+          "y": 187,
+          "width": 88,
+          "height": 178
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00021.jpg147518": {
+    "filename": "scene00021.jpg",
+    "size": 147518,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 258,
+          "y": 103,
+          "width": 108,
+          "height": 209
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00031 (2).jpg117202": {
+    "filename": "scene00031 (2).jpg",
+    "size": 117202,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 265,
+          "y": 167,
+          "width": 89,
+          "height": 174
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00031.jpg141934": {
+    "filename": "scene00031.jpg",
+    "size": 141934,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 257,
+          "y": 139,
+          "width": 109,
+          "height": 208
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00041 (2).jpg115139": {
+    "filename": "scene00041 (2).jpg",
+    "size": 115139,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 232,
+          "y": 179,
+          "width": 125,
+          "height": 156
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00041 (3).jpg117299": {
+    "filename": "scene00041 (3).jpg",
+    "size": 117299,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 268,
+          "y": 181,
+          "width": 91,
+          "height": 170
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00041.jpg139913": {
+    "filename": "scene00041.jpg",
+    "size": 139913,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 252,
+          "y": 169,
+          "width": 102,
+          "height": 199
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00051 (2).jpg118439": {
+    "filename": "scene00051 (2).jpg",
+    "size": 118439,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 243,
+          "y": 161,
+          "width": 115,
+          "height": 150
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00051 (3).jpg111643": {
+    "filename": "scene00051 (3).jpg",
+    "size": 111643,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 263,
+          "y": 198,
+          "width": 91,
+          "height": 173
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00051.jpg139151": {
+    "filename": "scene00051.jpg",
+    "size": 139151,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 252,
+          "y": 175,
+          "width": 103,
+          "height": 191
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00061 (2).jpg120905": {
+    "filename": "scene00061 (2).jpg",
+    "size": 120905,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 242,
+          "y": 165,
+          "width": 110,
+          "height": 146
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00061 (3).jpg99672": {
+    "filename": "scene00061 (3).jpg",
+    "size": 99672,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 252,
+          "y": 193,
+          "width": 89,
+          "height": 169
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00061.jpg140089": {
+    "filename": "scene00061.jpg",
+    "size": 140089,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 255,
+          "y": 167,
+          "width": 104,
+          "height": 192
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00071 (2).jpg123546": {
+    "filename": "scene00071 (2).jpg",
+    "size": 123546,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 230,
+          "y": 173,
+          "width": 108,
+          "height": 144
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00071 (3).jpg108098": {
+    "filename": "scene00071 (3).jpg",
+    "size": 108098,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 249,
+          "y": 168,
+          "width": 91,
+          "height": 161
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00071.jpg133712": {
+    "filename": "scene00071.jpg",
+    "size": 133712,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 254,
+          "y": 148,
+          "width": 110,
+          "height": 194
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00081 (2).jpg116058": {
+    "filename": "scene00081 (2).jpg",
+    "size": 116058,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 232,
+          "y": 166,
+          "width": 99,
+          "height": 134
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00081 (3).jpg105491": {
+    "filename": "scene00081 (3).jpg",
+    "size": 105491,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 245,
+          "y": 150,
+          "width": 86,
+          "height": 154
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00081.jpg126451": {
+    "filename": "scene00081.jpg",
+    "size": 126451,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 260,
+          "y": 145,
+          "width": 117,
+          "height": 202
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00091 (2).jpg110186": {
+    "filename": "scene00091 (2).jpg",
+    "size": 110186,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 242,
+          "y": 153,
+          "width": 89,
+          "height": 150
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00091.jpg107289": {
+    "filename": "scene00091.jpg",
+    "size": 107289,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 268,
+          "y": 146,
+          "width": 126,
+          "height": 204
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00101 (2).jpg108615": {
+    "filename": "scene00101 (2).jpg",
+    "size": 108615,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 247,
+          "y": 180,
+          "width": 90,
+          "height": 148
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00101.jpg108344": {
+    "filename": "scene00101.jpg",
+    "size": 108344,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 264,
+          "y": 134,
+          "width": 123,
+          "height": 197
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00111 (2).jpg116020": {
+    "filename": "scene00111 (2).jpg",
+    "size": 116020,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 238,
+          "y": 180,
+          "width": 78,
+          "height": 119
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00111 (3).jpg105550": {
+    "filename": "scene00111 (3).jpg",
+    "size": 105550,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 244,
+          "y": 196,
+          "width": 95,
+          "height": 155
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00111.jpg110763": {
+    "filename": "scene00111.jpg",
+    "size": 110763,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 253,
+          "y": 116,
+          "width": 124,
+          "height": 192
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00121 (2).jpg106240": {
+    "filename": "scene00121 (2).jpg",
+    "size": 106240,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 223,
+          "y": 170,
+          "width": 77,
+          "height": 125
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00121 (3).jpg101532": {
+    "filename": "scene00121 (3).jpg",
+    "size": 101532,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 244,
+          "y": 203,
+          "width": 102,
+          "height": 161
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00121.jpg107554": {
+    "filename": "scene00121.jpg",
+    "size": 107554,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 255,
+          "y": 133,
+          "width": 126,
+          "height": 185
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00131 (2).jpg111137": {
+    "filename": "scene00131 (2).jpg",
+    "size": 111137,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 225,
+          "y": 155,
+          "width": 70,
+          "height": 127
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00131 (3).jpg92377": {
+    "filename": "scene00131 (3).jpg",
+    "size": 92377,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 250,
+          "y": 193,
+          "width": 108,
+          "height": 168
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00131.jpg110981": {
+    "filename": "scene00131.jpg",
+    "size": 110981,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 257,
+          "y": 145,
+          "width": 132,
+          "height": 180
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00141 (2).jpg96066": {
+    "filename": "scene00141 (2).jpg",
+    "size": 96066,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 259,
+          "y": 191,
+          "width": 108,
+          "height": 167
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00141.jpg102958": {
+    "filename": "scene00141.jpg",
+    "size": 102958,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 250,
+          "y": 157,
+          "width": 134,
+          "height": 180
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00151 (2).jpg96001": {
+    "filename": "scene00151 (2).jpg",
+    "size": 96001,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 244,
+          "y": 189,
+          "width": 109,
+          "height": 168
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00151.jpg109952": {
+    "filename": "scene00151.jpg",
+    "size": 109952,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 244,
+          "y": 159,
+          "width": 136,
+          "height": 185
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00161 (2).jpg108534": {
+    "filename": "scene00161 (2).jpg",
+    "size": 108534,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 212,
+          "y": 199,
+          "width": 62,
+          "height": 116
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00161 (3).jpg95591": {
+    "filename": "scene00161 (3).jpg",
+    "size": 95591,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 234,
+          "y": 165,
+          "width": 110,
+          "height": 168
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00161.jpg103765": {
+    "filename": "scene00161.jpg",
+    "size": 103765,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 243,
+          "y": 164,
+          "width": 135,
+          "height": 192
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00171 (2).jpg101412": {
+    "filename": "scene00171 (2).jpg",
+    "size": 101412,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 209,
+          "y": 227,
+          "width": 59,
+          "height": 114
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00171 (3).jpg99306": {
+    "filename": "scene00171 (3).jpg",
+    "size": 99306,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 227,
+          "y": 158,
+          "width": 110,
+          "height": 163
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00171.jpg113681": {
+    "filename": "scene00171.jpg",
+    "size": 113681,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 248,
+          "y": 179,
+          "width": 136,
+          "height": 197
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00181 (2).jpg102196": {
+    "filename": "scene00181 (2).jpg",
+    "size": 102196,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 222,
+          "y": 243,
+          "width": 57,
+          "height": 113
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00181 (3).jpg97191": {
+    "filename": "scene00181 (3).jpg",
+    "size": 97191,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 212,
+          "y": 181,
+          "width": 123,
+          "height": 169
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00181.jpg116431": {
+    "filename": "scene00181.jpg",
+    "size": 116431,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 262,
+          "y": 138,
+          "width": 138,
+          "height": 199
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00191 (2).jpg97013": {
+    "filename": "scene00191 (2).jpg",
+    "size": 97013,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 235,
+          "y": 234,
+          "width": 60,
+          "height": 122
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00191 (3).jpg105529": {
+    "filename": "scene00191 (3).jpg",
+    "size": 105529,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 205,
+          "y": 201,
+          "width": 140,
+          "height": 177
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00191.jpg112993": {
+    "filename": "scene00191.jpg",
+    "size": 112993,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 264,
+          "y": 116,
+          "width": 135,
+          "height": 199
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00201 (2).jpg101801": {
+    "filename": "scene00201 (2).jpg",
+    "size": 101801,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 250,
+          "y": 227,
+          "width": 62,
+          "height": 127
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00201 (3).jpg103464": {
+    "filename": "scene00201 (3).jpg",
+    "size": 103464,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 220,
+          "y": 206,
+          "width": 165,
+          "height": 188
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00201.jpg106925": {
+    "filename": "scene00201.jpg",
+    "size": 106925,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 251,
+          "y": 118,
+          "width": 126,
+          "height": 199
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00211 (2).jpg118335": {
+    "filename": "scene00211 (2).jpg",
+    "size": 118335,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 232,
+          "y": 194,
+          "width": 184,
+          "height": 202
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00211.jpg123290": {
+    "filename": "scene00211.jpg",
+    "size": 123290,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 234,
+          "y": 146,
+          "width": 118,
+          "height": 199
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00221 (2).jpg126411": {
+    "filename": "scene00221 (2).jpg",
+    "size": 126411,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 228,
+          "y": 188,
+          "width": 189,
+          "height": 205
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00221.jpg121519": {
+    "filename": "scene00221.jpg",
+    "size": 121519,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 234,
+          "y": 166,
+          "width": 117,
+          "height": 196
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00231 (2).jpg116431": {
+    "filename": "scene00231 (2).jpg",
+    "size": 116431,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 256,
+          "y": 236,
+          "width": 72,
+          "height": 143
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00231 (3).jpg129185": {
+    "filename": "scene00231 (3).jpg",
+    "size": 129185,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 210,
+          "y": 171,
+          "width": 185,
+          "height": 203
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00231.jpg127581": {
+    "filename": "scene00231.jpg",
+    "size": 127581,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 238,
+          "y": 184,
+          "width": 112,
+          "height": 196
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00241 (2).jpg103401": {
+    "filename": "scene00241 (2).jpg",
+    "size": 103401,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 271,
+          "y": 224,
+          "width": 80,
+          "height": 145
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00241 (3).jpg132166": {
+    "filename": "scene00241 (3).jpg",
+    "size": 132166,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 204,
+          "y": 166,
+          "width": 187,
+          "height": 203
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00241.jpg130949": {
+    "filename": "scene00241.jpg",
+    "size": 130949,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 243,
+          "y": 188,
+          "width": 111,
+          "height": 197
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00251 (2).jpg104508": {
+    "filename": "scene00251 (2).jpg",
+    "size": 104508,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 288,
+          "y": 224,
+          "width": 84,
+          "height": 148
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00251 (3).jpg122652": {
+    "filename": "scene00251 (3).jpg",
+    "size": 122652,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 203,
+          "y": 165,
+          "width": 185,
+          "height": 202
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00251.jpg134456": {
+    "filename": "scene00251.jpg",
+    "size": 134456,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 247,
+          "y": 194,
+          "width": 113,
+          "height": 200
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00261 (2).jpg111292": {
+    "filename": "scene00261 (2).jpg",
+    "size": 111292,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 190,
+          "y": 153,
+          "width": 188,
+          "height": 204
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00261.jpg106022": {
+    "filename": "scene00261.jpg",
+    "size": 106022,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 291,
+          "y": 215,
+          "width": 89,
+          "height": 143
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00271 (2).jpg88266": {
+    "filename": "scene00271 (2).jpg",
+    "size": 88266,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 236,
+          "y": 152,
+          "width": 194,
+          "height": 211
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00271.jpg95965": {
+    "filename": "scene00271.jpg",
+    "size": 95965,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 287,
+          "y": 203,
+          "width": 91,
+          "height": 137
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00281.jpg105456": {
+    "filename": "scene00281.jpg",
+    "size": 105456,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 262,
+          "y": 174,
+          "width": 188,
+          "height": 202
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00291.jpg110276": {
+    "filename": "scene00291.jpg",
+    "size": 110276,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 248,
+          "y": 179,
+          "width": 181,
+          "height": 194
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00301 (2).jpg110581": {
+    "filename": "scene00301 (2).jpg",
+    "size": 110581,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 238,
+          "y": 163,
+          "width": 165,
+          "height": 188
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00301.jpg107602": {
+    "filename": "scene00301.jpg",
+    "size": 107602,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 263,
+          "y": 171,
+          "width": 94,
+          "height": 135
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00311 (2).jpg111831": {
+    "filename": "scene00311 (2).jpg",
+    "size": 111831,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 234,
+          "y": 136,
+          "width": 151,
+          "height": 195
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00311.jpg115455": {
+    "filename": "scene00311.jpg",
+    "size": 115455,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 252,
+          "y": 172,
+          "width": 94,
+          "height": 136
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00321 (2).jpg115877": {
+    "filename": "scene00321 (2).jpg",
+    "size": 115877,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 231,
+          "y": 109,
+          "width": 148,
+          "height": 204
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00321.jpg119961": {
+    "filename": "scene00321.jpg",
+    "size": 119961,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 241,
+          "y": 177,
+          "width": 94,
+          "height": 138
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00331 (2).jpg98881": {
+    "filename": "scene00331 (2).jpg",
+    "size": 98881,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 249,
+          "y": 102,
+          "width": 139,
+          "height": 218
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00331.jpg120859": {
+    "filename": "scene00331.jpg",
+    "size": 120859,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 221,
+          "y": 185,
+          "width": 95,
+          "height": 136
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00341 (2).jpg96885": {
+    "filename": "scene00341 (2).jpg",
+    "size": 96885,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 248,
+          "y": 97,
+          "width": 142,
+          "height": 233
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00341.jpg86216": {
+    "filename": "scene00341.jpg",
+    "size": 86216,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 206,
+          "y": 179,
+          "width": 96,
+          "height": 138
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00351.jpg97066": {
+    "filename": "scene00351.jpg",
+    "size": 97066,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 242,
+          "y": 63,
+          "width": 149,
+          "height": 242
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00361.jpg98210": {
+    "filename": "scene00361.jpg",
+    "size": 98210,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 245,
+          "y": 66,
+          "width": 149,
+          "height": 242
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00371 (2).jpg94285": {
+    "filename": "scene00371 (2).jpg",
+    "size": 94285,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 233,
+          "y": 84,
+          "width": 148,
+          "height": 236
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00371.jpg120952": {
+    "filename": "scene00371.jpg",
+    "size": 120952,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 256,
+          "y": 199,
+          "width": 102,
+          "height": 133
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00381 (2).jpg101524": {
+    "filename": "scene00381 (2).jpg",
+    "size": 101524,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 221,
+          "y": 104,
+          "width": 147,
+          "height": 228
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00381.jpg124527": {
+    "filename": "scene00381.jpg",
+    "size": 124527,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 240,
+          "y": 197,
+          "width": 99,
+          "height": 129
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00391 (2).jpg109757": {
+    "filename": "scene00391 (2).jpg",
+    "size": 109757,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 200,
+          "y": 107,
+          "width": 155,
+          "height": 216
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00391.jpg105301": {
+    "filename": "scene00391.jpg",
+    "size": 105301,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 237,
+          "y": 214,
+          "width": 99,
+          "height": 127
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00401 (2).jpg122669": {
+    "filename": "scene00401 (2).jpg",
+    "size": 122669,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 204,
+          "y": 112,
+          "width": 156,
+          "height": 210
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00401.jpg106943": {
+    "filename": "scene00401.jpg",
+    "size": 106943,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 244,
+          "y": 244,
+          "width": 92,
+          "height": 132
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00411.jpg104577": {
+    "filename": "scene00411.jpg",
+    "size": 104577,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 243,
+          "y": 249,
+          "width": 88,
+          "height": 132
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00441.jpg106186": {
+    "filename": "scene00441.jpg",
+    "size": 106186,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 212,
+          "y": 158,
+          "width": 101,
+          "height": 145
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00451.jpg100430": {
+    "filename": "scene00451.jpg",
+    "size": 100430,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 212,
+          "y": 156,
+          "width": 99,
+          "height": 139
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00461.jpg97882": {
+    "filename": "scene00461.jpg",
+    "size": 97882,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 212,
+          "y": 132,
+          "width": 96,
+          "height": 132
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00471.jpg115121": {
+    "filename": "scene00471.jpg",
+    "size": 115121,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 212,
+          "y": 120,
+          "width": 94,
+          "height": 126
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00481.jpg112390": {
+    "filename": "scene00481.jpg",
+    "size": 112390,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 219,
+          "y": 120,
+          "width": 91,
+          "height": 122
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00511.jpg112951": {
+    "filename": "scene00511.jpg",
+    "size": 112951,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 226,
+          "y": 143,
+          "width": 98,
+          "height": 113
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00521.jpg110364": {
+    "filename": "scene00521.jpg",
+    "size": 110364,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 230,
+          "y": 153,
+          "width": 103,
+          "height": 118
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00531.jpg112300": {
+    "filename": "scene00531.jpg",
+    "size": 112300,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 235,
+          "y": 167,
+          "width": 104,
+          "height": 125
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00541.jpg113151": {
+    "filename": "scene00541.jpg",
+    "size": 113151,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 236,
+          "y": 185,
+          "width": 103,
+          "height": 128
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene00551.jpg107821": {
+    "filename": "scene00551.jpg",
+    "size": 107821,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 228,
+          "y": 207,
+          "width": 106,
+          "height": 131
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene002021.jpg156890": {
+    "filename": "scene002021.jpg",
+    "size": 156890,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 238,
+          "y": 129,
+          "width": 86,
+          "height": 248
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene002031.jpg158158": {
+    "filename": "scene002031.jpg",
+    "size": 158158,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 246,
+          "y": 139,
+          "width": 82,
+          "height": 245
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene002091.jpg131810": {
+    "filename": "scene002091.jpg",
+    "size": 131810,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 256,
+          "y": 153,
+          "width": 92,
+          "height": 232
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene002191.jpg152012": {
+    "filename": "scene002191.jpg",
+    "size": 152012,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 214,
+          "y": 177,
+          "width": 125,
+          "height": 157
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene003021.jpg126601": {
+    "filename": "scene003021.jpg",
+    "size": 126601,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 228,
+          "y": 181,
+          "width": 120,
+          "height": 161
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene003031.jpg115413": {
+    "filename": "scene003031.jpg",
+    "size": 115413,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 232,
+          "y": 195,
+          "width": 116,
+          "height": 159
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene003091.jpg119313": {
+    "filename": "scene003091.jpg",
+    "size": 119313,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 236,
+          "y": 157,
+          "width": 89,
+          "height": 127
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene003151.jpg106715": {
+    "filename": "scene003151.jpg",
+    "size": 106715,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 213,
+          "y": 176,
+          "width": 63,
+          "height": 118
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene003211.jpg112984": {
+    "filename": "scene003211.jpg",
+    "size": 112984,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 256,
+          "y": 213,
+          "width": 68,
+          "height": 133
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene003221.jpg116176": {
+    "filename": "scene003221.jpg",
+    "size": 116176,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 256,
+          "y": 216,
+          "width": 70,
+          "height": 139
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene003351.jpg98087": {
+    "filename": "scene003351.jpg",
+    "size": 98087,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 233,
+          "y": 184,
+          "width": 103,
+          "height": 136
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene003491.jpg109077": {
+    "filename": "scene003491.jpg",
+    "size": 109077,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 222,
+          "y": 126,
+          "width": 92,
+          "height": 113
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene003561.jpg114143": {
+    "filename": "scene003561.jpg",
+    "size": 114143,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 222,
+          "y": 228,
+          "width": 102,
+          "height": 131
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene004321.jpg110070": {
+    "filename": "scene004321.jpg",
+    "size": 110070,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 232,
+          "y": 212,
+          "width": 90,
+          "height": 136
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene020011.jpg133694": {
+    "filename": "scene020011.jpg",
+    "size": 133694,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 228,
+          "y": 156,
+          "width": 93,
+          "height": 256
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene020041.jpg144227": {
+    "filename": "scene020041.jpg",
+    "size": 144227,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 248,
+          "y": 143,
+          "width": 85,
+          "height": 249
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene020051.jpg143625": {
+    "filename": "scene020051.jpg",
+    "size": 143625,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 242,
+          "y": 138,
+          "width": 89,
+          "height": 254
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene020061.jpg137806": {
+    "filename": "scene020061.jpg",
+    "size": 137806,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 237,
+          "y": 142,
+          "width": 90,
+          "height": 251
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene020071.jpg146325": {
+    "filename": "scene020071.jpg",
+    "size": 146325,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 233,
+          "y": 135,
+          "width": 95,
+          "height": 244
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene020101.jpg120417": {
+    "filename": "scene020101.jpg",
+    "size": 120417,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 255,
+          "y": 120,
+          "width": 95,
+          "height": 216
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene020111.jpg128517": {
+    "filename": "scene020111.jpg",
+    "size": 128517,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 258,
+          "y": 107,
+          "width": 95,
+          "height": 197
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene020161.jpg134084": {
+    "filename": "scene020161.jpg",
+    "size": 134084,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 226,
+          "y": 121,
+          "width": 121,
+          "height": 157
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene020171.jpg139400": {
+    "filename": "scene020171.jpg",
+    "size": 139400,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 219,
+          "y": 131,
+          "width": 119,
+          "height": 156
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene020181.jpg145749": {
+    "filename": "scene020181.jpg",
+    "size": 145749,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 214,
+          "y": 152,
+          "width": 124,
+          "height": 155
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene030281.jpg102788": {
+    "filename": "scene030281.jpg",
+    "size": 102788,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 273,
+          "y": 166,
+          "width": 93,
+          "height": 132
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene030291.jpg109273": {
+    "filename": "scene030291.jpg",
+    "size": 109273,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 268,
+          "y": 161,
+          "width": 98,
+          "height": 137
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene030361.jpg102122": {
+    "filename": "scene030361.jpg",
+    "size": 102122,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 264,
+          "y": 198,
+          "width": 104,
+          "height": 133
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene030431.jpg96248": {
+    "filename": "scene030431.jpg",
+    "size": 96248,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 221,
+          "y": 176,
+          "width": 98,
+          "height": 142
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene030501.jpg102330": {
+    "filename": "scene030501.jpg",
+    "size": 102330,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 222,
+          "y": 136,
+          "width": 98,
+          "height": 109
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene030571.jpg118031": {
+    "filename": "scene030571.jpg",
+    "size": 118031,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 214,
+          "y": 235,
+          "width": 106,
+          "height": 132
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene200001.jpg138849": {
+    "filename": "scene200001.jpg",
+    "size": 138849,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 252,
+          "y": 199,
+          "width": 102,
+          "height": 257
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene200081.jpg142563": {
+    "filename": "scene200081.jpg",
+    "size": 142563,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 243,
+          "y": 142,
+          "width": 91,
+          "height": 237
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene200121.jpg122952": {
+    "filename": "scene200121.jpg",
+    "size": 122952,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 260,
+          "y": 129,
+          "width": 98,
+          "height": 192
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene200131.jpg131740": {
+    "filename": "scene200131.jpg",
+    "size": 131740,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 263,
+          "y": 147,
+          "width": 111,
+          "height": 188
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene200151.jpg127134": {
+    "filename": "scene200151.jpg",
+    "size": 127134,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 232,
+          "y": 129,
+          "width": 120,
+          "height": 175
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene300101.jpg121423": {
+    "filename": "scene300101.jpg",
+    "size": 121423,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 233,
+          "y": 171,
+          "width": 87,
+          "height": 122
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "scene300141.jpg102622": {
+    "filename": "scene300141.jpg",
+    "size": 102622,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 217,
+          "y": 155,
+          "width": 71,
+          "height": 123
+        },
+        "region_attributes": {
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          },
+          "Name of the Object": "Car Keys"
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  }
+}
