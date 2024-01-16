@@ -1,10 +1,10 @@
 import json
-from decimal import Decimal
-
 
 #  Image size is 640 x 480 
 
-def Calculate_Yolo(x, y, width, height):
+count = 0
+
+def Calculate_Yolo(x, y, width, height): 
     center_x = x / 640
     center_y = y / 480
     normalized_width = width / 640
@@ -15,7 +15,9 @@ def Calculate_Yolo(x, y, width, height):
 with open('Via_Annotations.json', 'r') as file:
     data = json.load(file)
 
+
 for key, value in data.items():
+    count += 1
     x = value['regions'][0]['shape_attributes']['x']
     y = value['regions'][0]['shape_attributes']['y']
     width = value['regions'][0]['shape_attributes']['width']
@@ -23,4 +25,4 @@ for key, value in data.items():
 
     # print(value)
 
-    print(Calculate_Yolo(x, y, width, height))
+    print(count , " " , Calculate_Yolo(x, y, width, height))
