@@ -1,0 +1,28 @@
+take pictures of an object
+annotate the pictures
+create a data set
+use yolo model to train the data set
+
+scp
+
+stop at step 8.
+
+padding on images (square)
+
+CNN Convelusional neural network
+
+VGG Annotator
+tailscale
+yolo v4
+
+not reinforcement
+
+Timings:
+-----------------
+Meetings - 2:30
+
+Research (Videos and Reading) - 6:00
+
+Pictures and Annotations - 2:00
+
+Coding - 1:00
